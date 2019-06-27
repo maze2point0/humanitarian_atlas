@@ -1,0 +1,1 @@
+format=csv&showMetadata=no&groupByKey=highway&groupByValues=primary,secondary,tertiary,trunk,residential,path,unclassified,track, footway,service,pedestrian&time=2015-01-01/2019-04-01/P1M

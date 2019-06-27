@@ -1,0 +1,1 @@
+format=csv&groupByKeys=highway,building,amenity&showMetadata=no&time=2015-01-01/2019-04-01/P1M
